@@ -49,8 +49,9 @@ button {
 textarea {
     height: 80px;
     padding: 10px;
-    font-size: 15px;
+    font-size: 14px;
     border-radius: 6px;
+    font-family: sans-serif;
 }
 
 .dynamic-content {
