@@ -40,12 +40,9 @@ window.onload = function () {
     ul.append(li);
 
     // Clear inputs
-    nameValue = "";
-    websiteValue = ""; 
-    textAreaValue = "";  
-
-
-
+    name.value = "";
+    website.value = "";
+    textArea.value = "";
   }
 
   button.addEventListener("click", function () {
